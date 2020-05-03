@@ -4,6 +4,10 @@ A collection of things I've learned about programming, security and computers in
 
 Idea inspired by https://github.com/jbranchaud/til.
 
+## Network
+
+* [Checking if HTTP Keep-Alive is working](network/confirm_http_keepalive.md)
+
 ## Security
 
 * [It's possible to predict Math.random()](security/predict_math_random.md)
